@@ -1,6 +1,6 @@
 <div align='center'>
     <br>
-    <h1> SISTEMA DE PRONTUÁRIOS ELETRÔNICOS PARAHOSPITAIS, EM RAZÃO
+    <h1> SISTEMA DE PRONTUÁRIOS ELETRÔNICOS PARA HOSPITAIS EM RAZÃO
         DA SUBSTITUIÇÃO DE PRONTUÁRIOS FÍSICOS. </h1>
 </div>
 
@@ -48,13 +48,7 @@ Pelo fato dos prontuários médicos ainda não serem digitais na grande parte do
 <details>
 <summary> Link PDF</summary>
 <li>
-    <a src="./diffentiatede"> Automatização de Prontuários Médicos </a>
-</li>
-</details>
-
-<details>
-<summary>Link Youtube</summary>
-<li>
-    <a href="https://youtu.be/VS3ULU3dA8o"> Pitch </a>
+    <a href="https://github.com/GlobalSolutionESBP/GS-DifferentiatedSolvingProblem/blob/main/Differentiated%20Problem%20Solving-%20GS%20(1).pdf"> 
+    Sistema de prontuários eletrônicos para hospitais em razão da substituição de prontuários físicos  </a>
 </li>
 </details>
